@@ -1,0 +1,1 @@
+<pre>system('cat users.php')</pre>
