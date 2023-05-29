@@ -1,1 +1,1 @@
-<pre>system('cat /etc/passwd')</pre>
+<pre>system('ls -la /home/kiddie')</pre>
