@@ -1,1 +1,0 @@
-<pre>system('cat admin.php')</pre>
