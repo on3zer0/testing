@@ -1,1 +1,1 @@
-<pre>system('la -la')</pre>
+<pre>system('ls -la')</pre>
