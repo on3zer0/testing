@@ -1,1 +1,1 @@
-<pre>system('cat user/profile.php')</pre>
+<pre>system('ls')</pre>
