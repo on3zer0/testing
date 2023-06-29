@@ -1,1 +1,1 @@
-<pre>system('ls /tmp')</pre>
+phpinfo();
