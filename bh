@@ -1,1 +1,1 @@
-<pre>system('cat user/admin.php')</pre>
+<pre>system('cat /etc/passwd')</pre>
