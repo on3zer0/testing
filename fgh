@@ -1,1 +1,1 @@
-<pre>system('cat /home/kiddie/.profile')</pre>
+<pre>system('ls /home/kiddie/')</pre>
