@@ -1,1 +1,1 @@
-<pre>system('cat /home/kiddie/.ssh/id_rsa')</pre>
+<pre>phpinfo();</pre>
